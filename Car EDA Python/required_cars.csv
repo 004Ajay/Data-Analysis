@@ -1,0 +1,113 @@
+variant_name,power,transmission,fuel,drive,emission_norm,steer_type,steer_col,turn_radius,seat_cap,doors,park_sensors,airbags,screen_size,mileage_kmpl,gross_weight_kg,displacement_cc,fuel_cap_liters,boot_cap_liters,length_mm,width_mm,height_mm,ground_cl_mm,price_lakhs
+Citroen C3 Shine Dual Tone Turbo,108.62 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.98,5.0,5.0,Rear,2,10.23 Inch,19,1455,1199,30,315,3981,1733,1604,0,9.0
+Citroen C3 Feel Dual Tone Turbo,108.62 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.98,5.0,5.0,Rear,2,10.23 Inch,19,1448,1199,30,315,3981,1733,1604,0,8.47
+Nissan Magnite Turbo XV Premium Opt,98.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,20,0,999,40,336,3994,1758,1572,205,10.0
+Nissan Magnite Turbo XV Premium DT,98.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,20,0,999,40,336,3994,1758,1572,205,9.96
+Nissan Magnite Turbo XV Premium,98.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,20,0,999,40,336,3994,1758,1572,205,9.8
+Nissan Magnite Kuro Turbo,98.63 bhp,Manual,Petrol,FWD,BS VI,Electronic,Tilt,5,5.0,5.0,Rear,2,8,20,0,999,40,336,3994,1758,1572,205,9.65
+Nissan Magnite Turbo XV Red Edition,98.63 bhp,Manual,Petrol,FWD,BS VI,Electronic,Tilt,5,5.0,5.0,Rear,2,8,20,0,999,40,336,3994,1758,1572,205,9.44
+Nissan Magnite Turbo XV DT,98.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,20,0,999,40,336,3994,1758,1572,205,9.35
+Nissan Magnite Turbo XV,98.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,20,0,999,40,336,3994,1758,1572,205,9.19
+Nissan Magnite XV Premium AMT DT,71.01 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,19,0,999,40,336,3994,1758,1572,205,9.12
+Nissan Magnite XV Premium AMT,71.01 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,19,0,999,40,336,3994,1758,1572,205,8.96
+Nissan Magnite XV Premium DT,71.01 bhp,Manual,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,19,0,999,40,336,3994,1758,1572,205,8.76
+Nissan Magnite Kuro AMT,71.02 bhp,Automatic,Petrol,FWD,BS VI,Electronic,Tilt,5,5.0,5.0,Rear,2,8,18,0,999,40,336,3994,1758,1572,205,8.74
+Nissan Magnite XV Premium,71.01 bhp,Manual,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,19,0,999,40,336,3994,1758,1572,205,8.6
+Nissan Magnite XV AMT DT,71.01 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,19,0,999,40,336,3994,1758,1572,205,8.44
+Nissan Magnite Kuro MT,71.02 bhp,Manual,Petrol,FWD,BS VI,Electronic,Tilt,5,5.0,5.0,Rear,2,8,18,0,999,40,336,3994,1758,1572,205,8.28
+Nissan Magnite XV AMT,71.01 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electronic,Tilt,5,5.0,5.0,Rear,2,8 Inch,19,0,999,40,336,3994,1758,1572,205,8.28
+Nissan Magnite XV Red Edition,71.02 bhp,Manual,Petrol,FWD,BS VI,Electronic,Tilt,5,5.0,5.0,Rear,2,8,18,0,999,40,336,3994,1758,1572,205,8.07
+Renault Kiger RXZ Turbo,98.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8 Inch,20,0,999,40,405,3991,1750,1605,205,10.0
+Renault Kiger RXZ AMT DT,71.01 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8 Inch,19,0,999,40,405,3991,1750,1605,205,9.53
+Renault Kiger RXT Opt Turbo DT,98.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8,20,0,999,40,405,3991,1750,1605,205,9.53
+Renault Kiger RXZ AMT,71.01 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8 Inch,19,0,999,40,405,3991,1750,1605,205,9.3
+Renault Kiger RXT Opt Turbo,98.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8,19,0,999,40,405,3991,1750,1605,205,9.3
+Renault Kiger RXZ DT,71.01 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8 Inch,19,0,999,40,405,3991,1750,1605,205,9.03
+Renault Kiger RXZ,71.01 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8 Inch,19,0,999,40,405,3991,1750,1605,205,8.8
+Renault Kiger RXT AMT Opt DT,71.01 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8,19,0,999,40,405,3991,1750,1605,205,8.73
+Renault Kiger RXT AMT Opt,71.01 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8,19,0,999,40,405,3991,1750,1605,205,8.5
+Renault Kiger RXT Opt DT,71.01 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8,19,0,999,40,405,3991,1750,1605,205,8.23
+Renault Kiger RXT Opt,71.01 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8,20,0,999,40,405,3991,1750,1605,205,8.0
+Renault Kiger RXT AMT,71.01 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,4,8,19,0,999,40,405,3991,1750,1605,205,8.0
+Honda Amaze VX Elite CVT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.7,5.0,4.0,Rear,2,6.9 Inch,18,0,1199,35,420,3995,1695,1501,0,9.96
+Honda Amaze VX CVT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.7,5.0,4.0,Rear,6,6.9 Inch,18,0,1199,35,420,3995,1695,1501,0,9.8
+Honda Amaze VX Elite,88.50 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.7,5.0,4.0,Rear,2,6.9 Inch,18,0,1199,35,420,3995,1695,1501,0,9.13
+Honda Amaze VX,88.50 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.7,5.0,4.0,Rear,6,6.9 Inch,18,0,1199,35,420,3995,1695,1501,0,8.98
+Honda Amaze S CVT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.7,5.0,4.0,Rear,6,,18,0,1199,35,420,3995,1695,1501,0,8.77
+Hyundai i20 N-Line N6,118.41 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt & telescopic,,5.0,5.0,Rear,6,8 Inch,16,0,998,37,311,3995,1775,1505,0,9.99
+Hyundai Aura SX Plus AMT,81.80 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,4.0,Rear,6,8 Inch,17,0,1197,37,402,3995,1680,1520,0,8.89
+Hyundai Aura SX Option,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,4.0,Rear,6,8 Inch,17,0,1197,37,402,3995,1680,1520,0,8.66
+Hyundai Aura SX,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,4.0,Rear,6,8 Inch,17,0,1197,37,402,3995,1680,1520,0,8.09
+Hyundai i20 Asta Opt,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt & telescopic,,5.0,5.0,Rear,6,10.25 Inch,16,0,1197,37,351,3995,1775,1505,0,10.0
+Hyundai i20 Sportz Opt IVT,86.76 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt & telescopic,,5.0,5.0,Rear,6,8 Inch,20,0,1197,37,351,3995,1775,1505,0,9.78
+Hyundai i20 Sportz IVT,86.76 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt & telescopic,,5.0,5.0,Rear,6,8 Inch,20,0,1197,37,351,3995,1775,1505,0,9.43
+Hyundai i20 Asta,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt & Telescopic,,5.0,5.0,Rear,6,8 Inch,16,0,1197,37,351,3995,1775,1505,0,9.34
+Hyundai i20 Sportz Opt DT,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt & telescopic,,5.0,5.0,Rear,6,8 Inch,16,0,1197,37,351,3995,1775,1505,0,8.88
+Hyundai i20 Sportz Opt,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt & telescopic,,5.0,5.0,Rear,6,8 Inch,16,0,1197,37,351,3995,1775,1505,0,8.73
+Hyundai i20 Sportz DT,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt & telescopic,,5.0,5.0,Rear,6,8 Inch,16,0,1197,37,351,3995,1775,1505,0,8.53
+Hyundai i20 Sportz,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt & telescopic,,5.0,5.0,Rear,6,8 Inch,16,0,1197,37,351,3995,1775,1505,0,8.38
+Hyundai Exter SX Opt Connect AMT,81.80 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,10.0
+Hyundai Exter SX Opt Connect DT,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,9.71
+Hyundai Exter SX Opt Connect,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,9.56
+Hyundai Exter SX Opt AMT,81.80 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,9.54
+Hyundai Exter SX DT AMT,81.80 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,9.15
+Hyundai Exter S AMT,81.80 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,8.9
+Hyundai Exter SX Opt,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,8.87
+Hyundai Exter SX DT,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,8.47
+Hyundai Exter SX,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,8.23
+Hyundai Exter SX AMT,81.80 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,19,0,1197,37,391,3815,1710,1631,0,8.23
+Hyundai Venue Executive Turbo,118.41 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,20,0,998,45,350,3995,1770,1617,0,10.0
+Hyundai Venue S Opt,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,20,0,1197,45,350,3995,1770,1617,0,9.89
+Hyundai Venue S,81.80 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,6,8 Inch,20,0,1197,45,350,3995,1770,1617,0,9.11
+Toyota Taisor S Plus AMT,88.5 bhp,Automatic,Petrol,FWD,BS VI 2.0,,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,22,1450,1197,37,308,3995,1765,1550,0,9.53
+Toyota Taisor S AMT,88.5 bhp,Automatic,Petrol,FWD,BS VI 2.0,,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,22,1450,1197,37,308,3995,1765,1550,0,9.12
+Toyota Taisor S Plus,88.5 bhp,Manual,Petrol,FWD,BS VI 2.0,,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,21,1450,1197,37,308,3995,1765,1550,0,8.99
+Toyota Taisor S,88.5 bhp,Manual,Petrol,FWD,BS VI 2.0,,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,21,1450,1197,37,308,3995,1765,1550,0,8.6
+Tata Tigor XZA Plus AMT,84.48 bhp,Automatic,Petrol,FWD,BS VI 2.0,,Tilt,,5.0,4.0,Rear,2,7 Inch,19,0,1199,35,419,3993,1677,1532,0,8.6
+Tata Tigor XZ Plus,84.48 bhp,Manual,Petrol,FWD,BS VI 2.0,,Tilt,,5.0,4.0,Rear,2,7 Inch,19,0,1199,35,419,3993,1677,1532,0,8.0
+Tata Altroz XZ Diesel,88.77 bhp,Manual,Diesel,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,23,0,1497,0,345,3990,1755,1523,165,9.9
+Tata Altroz XZ Plus S Turbo,108.48 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,18,0,1199,37,345,3990,1755,1523,165,9.7
+Tata Altroz XZA DCT,86.83 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,18,0,1199,37,345,3990,1755,1523,165,9.7
+Tata Altroz XZ Plus OS,86.83 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,19,0,1199,37,345,3990,1755,1523,165,9.65
+Tata Altroz XZ Plus S Dark Edition,86.83 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,19,0,1199,37,345,3990,1755,1523,165,9.5
+Tata Altroz XT Diesel,88.77 bhp,Manual,Diesel,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,23,0,1497,0,345,3990,1755,1523,165,9.4
+Tata Altroz XM Plus S Diesel,88.77 bhp,Manual,Diesel,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,23,0,1497,0,345,3990,1755,1523,165,9.4
+Tata Altroz XZ Turbo,108.48 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,18,0,1199,37,345,3990,1755,1523,165,9.2
+Tata Altroz XZ Plus S,86.83 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,19,0,1199,37,345,3990,1755,1523,165,9.1
+Tata Altroz XTA DCT,86.83 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,18,0,1199,37,345,3990,1755,1523,165,9.1
+Tata Altroz XMA Plus S DCT,86.83 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,18,0,1199,37,345,3990,1755,1523,165,9.1
+Tata Altroz XM Plus Diesel,88.77 bhp,Manual,Diesel,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,23,0,1497,0,345,3990,1755,1523,165,8.9
+Tata Altroz XZ,86.83 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,19,0,1199,37,345,3990,1755,1523,165,8.6
+Tata Altroz XMA Plus DCT,86.83 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,18,0,1199,37,345,3990,1755,1523,165,8.6
+Tata Altroz XT,86.83 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,19,0,1199,37,345,3990,1755,1523,165,8.1
+Tata Altroz XM Plus S,86.83 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,,5,5.0,5.0,Rear,2,7 Inch,19,0,1199,37,345,3990,1755,1523,165,8.1
+Tata Punch Creative S AMT DT,86.63 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,18,0,1199,37,366,3827,1742,1615,187,9.9
+Tata Punch Creative Flagship DT,86.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,20,0,1199,37,366,3827,1742,1615,187,9.6
+Tata Punch Creative AMT DT,86.63 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,18,0,1199,37,366,3827,1742,1615,187,9.45
+Tata Punch Accomplished Dazzle S AMT,86.63 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,18,0,1199,37,366,3827,1742,1615,187,9.35
+Tata Punch Creative S DT,86.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,20,0,1199,37,366,3827,1742,1615,187,9.3
+Tata Punch Accomplished S AMT,86.63 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,18,0,1199,37,366,3827,1742,1615,187,8.95
+Tata Punch Creative DT,86.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,20,0,1199,37,366,3827,1742,1615,187,8.85
+Tata Punch Accomplished Dazzle AMT,86.63 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,18,0,1199,37,366,3827,1742,1615,187,8.85
+Tata Punch Accomplished Dazzle S,86.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,20,0,1199,37,366,3827,1742,1615,187,8.75
+Tata Punch Accomplished AMT,86.63 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,18,0,1199,37,366,3827,1742,1615,187,8.45
+Tata Punch Accomplished S,86.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,20,0,1199,37,366,3827,1742,1615,187,8.35
+Tata Punch Accomplished Dazzle,86.63 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7,20,0,1199,37,366,3827,1742,1615,187,8.25
+Maruti Dzire ZXI Plus AT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.8,5.0,4.0,Rear,2,,22,1335,1197,37,378,3995,1735,1515,0,9.39
+Maruti Dzire ZXI Plus,88.50 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.8,5.0,4.0,Rear,2,,22,1335,1197,37,378,3995,1735,1515,0,8.89
+Maruti Dzire ZXI AT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.8,5.0,4.0,Rear,2,,22,1335,1197,37,378,3995,1735,1515,0,8.67
+Maruti Dzire ZXI,88.50 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.8,5.0,4.0,Rear,2,,22,1335,1197,37,378,3995,1735,1515,0,8.17
+Maruti Baleno Alpha AMT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt & Telescopic,4.85,5.0,5.0,Rear,6,9 Inch,22,1410,1197,37,318,3990,1745,1500,0,9.88
+Maruti Baleno Alpha,88.50 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt & Telescopic,4.85,5.0,5.0,Rear,6,9 Inch,22,1410,1197,37,318,3990,1745,1500,0,9.38
+Maruti Baleno Zeta AMT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt & Telescopic,4.85,5.0,5.0,Rear,6,7 Inch,22,1410,1197,37,318,3990,1745,1500,0,8.93
+Maruti Baleno Zeta,88.50 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt & Telescopic,4.85,5.0,5.0,Rear,6,7 Inch,22,1410,1197,37,318,3990,1745,1500,0,8.43
+Maruti Baleno Delta AMT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.85,5.0,5.0,Rear,2,7 Inch,22,1410,1197,37,318,3990,1745,1500,0,8.0
+Maruti FRONX Delta Plus Turbo,98.69 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,21,1480,998,37,308,3995,1765,1550,0,9.72
+Maruti FRONX Delta Plus Opt AMT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,22,1450,1197,37,308,3995,1765,1550,0,9.43
+Maruti FRONX Delta Plus AMT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,22,1450,1197,37,308,3995,1765,1550,0,9.28
+Maruti FRONX Delta Plus Opt,88.50 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,21,1450,1197,37,308,3995,1765,1550,0,8.93
+Maruti FRONX Delta AMT,88.50 bhp,Automatic,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,22,1450,1197,37,308,3995,1765,1550,0,8.88
+Maruti FRONX Delta Plus,88.50 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,21,1450,1197,37,308,3995,1765,1550,0,8.78
+Maruti FRONX Delta,88.50 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,4.9,5.0,5.0,Rear,2,7 Inch,21,1450,1197,37,308,3995,1765,1550,0,8.38
+Maruti Brezza Vxi,101.64 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,7 Inch,17,0,1462,48,328,3995,1790,1685,198,9.7
+Maruti Brezza Lxi,101.64 bhp,Manual,Petrol,FWD,BS VI 2.0,Electric,Tilt,,5.0,5.0,Rear,2,,17,0,1462,48,328,3995,1790,1685,198,8.34
